@@ -1,0 +1,1165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cities remonstrance and addresse to the Kings Most Excellent Majesty</title>
+            <author>Committee for the Militia of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79807</idno>
+            <idno type="STC">Wing C4333A</idno>
+            <idno type="STC">ESTC R227665</idno>
+            <idno type="EEBO-CITATION">99895258</idno>
+            <idno type="PROQUEST">99895258</idno>
+            <idno type="VID">152637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152637)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2310:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cities remonstrance and addresse to the Kings Most Excellent Majesty</title>
+                  <author>Committee for the Militia of London.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London, and re-printed at Edinburgh, Anno Dom,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing reports title as "The city's remonstrance ..."</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152637:1"/>
+            <p>THE CITIES REMONSTRANCE AND ADDRESSE TO THE KINGS MOST EXCELLENT MAJESTY.</p>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh, Anno Dom,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152637:2"/>
+            <pb n="3" facs="tcp:152637:2"/>
+            <head>THE REMONSTRANCE AND ADDRESSE Of the Officers of all the Regiments of Horſe, Trained-Bands, and Auxiliaries of the Honorable City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Dread Soveraign:</salute>
+            </opener>
+            <p>YOur moſt Loyall and moſt Devoted Sub<g ref="char:EOLhyphen"/>jects, Your Major General, Field Officers and Captains, with all the inferiour Officers of Your two Regiments of Horſe of Your City of <hi>London,</hi> whiles ſome mens zeal, through unrigh<g ref="char:EOLhyphen"/>teous Seducements, ſeems a little cooled towards Your Majeſties Service, Do with all humble boldneſs Remonſtrate the Conſtancy of theirs; And in a deep ſenſe of their Duty and high Obli<g ref="char:EOLhyphen"/>gations to Your Sacred Majeſty for Your eſpeci<g ref="char:EOLhyphen"/>all Indulgencies to this Your Native City, do De<g ref="char:EOLhyphen"/>dicate their Lives and Eſtates to Your Majeſties Service, Hereby adding to their Oath of Allegi<g ref="char:EOLhyphen"/>ance, That they will not only bear Faith and Obe<g ref="char:EOLhyphen"/>dience
+<pb n="4" facs="tcp:152637:3"/>to Your Majeſty, but upon all Occaſions joyfully employ and improve their uttermoſt power and vigilancy, with their Lives and Fortunes, to deſtroy Your Enemies in defence of Your Royall Perſon and Authority, and ſecuring all Your juſt civil Intereſts, with the Intereſt of Religion as 'tis now eſtabliſhed by Law, For Your Majeſty being eminently the moſt Pious, Gracious, and Worthy Prince in the World, we cannot without exceeding all other Subjects in Loyalty and Affection, de<g ref="char:EOLhyphen"/>ſerve the Title of</p>
+            <closer>
+               <signed>Your Majeſties True, Dutifull, Humble, and Obedient Subjects and Servants.</signed>
+            </closer>
+         </div>
+         <div type="list_of_appended_signatories">
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Lieutenants.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Cornets.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Quar. Maſters.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Brown <hi>Maj. Gen.</hi>
+                     </cell>
+                     <cell>Chr. Shaw. <hi>Capt.</hi>
+                     </cell>
+                     <cell>
+                        <hi>L.</hi>
+                     </cell>
+                     <cell>Joſ. Blomley.</cell>
+                  </row>
+                  <row>
+                     <cell>Ben. Henſhaw <hi>Major.</hi>
+                     </cell>
+                     <cell>Robert Blackſton.</cell>
+                     <cell>Iſ. Garard.</cell>
+                     <cell>John Carew.</cell>
+                  </row>
+                  <row>
+                     <cell>Jam: Mudyford <hi>Capt.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>John Jones.</cell>
+                     <cell>Will. Pawlet.</cell>
+                  </row>
+                  <row>
+                     <cell>John Clark. <hi>Capt.</hi>
+                     </cell>
+                     <cell>Tho. Roycroft.</cell>
+                     <cell> </cell>
+                     <cell>Edw. Powel.</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Morris. <hi>Capt.</hi>
+                     </cell>
+                     <cell>Tho. Walker.</cell>
+                     <cell> </cell>
+                     <cell>Tho. Hobday.</cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Barret. <hi>Capt.</hi>
+                     </cell>
+                     <cell>John Ryland.</cell>
+                     <cell>Sam. Put.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Nich. Criſp. <hi>Col.</hi>
+                     </cell>
+                     <cell>John Shaw <hi>L. Col.</hi>
+                     </cell>
+                     <cell>Tho. Founds.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Kendrick <hi>Capt.</hi>
+                     </cell>
+                     <cell>Band <hi>Capt. L.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Swaile. <hi>Capt.</hi>
+                     </cell>
+                     <cell>John Hearne</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>John Burroughs, <hi>Muſter Mr.</hi>
+                     </cell>
+                     <cell>Zankey</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The like Addreſs (only with the words</hi> of the ſeveral Regiments of Your Trained-bands <hi>inſtead of</hi> Your two Regiments of Horſe) <hi>was ſubſcribed by the Officers following.</hi>
+            </p>
+            <pb n="5" facs="tcp:152637:3"/>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="3">I. <hi>Black and White Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Lieutenants.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Enſignes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Rich. Brown <hi>Maj. Gen.</hi>
+                     </cell>
+                     <cell>Fran. Turner <hi>Capt. Lien.</hi>
+                     </cell>
+                     <cell>Rich: Clowdeſley</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieu. Col.</hi> Tho. Player, <hi>jun.</hi>
+                     </cell>
+                     <cell>William Walker.</cell>
+                     <cell>Thomas Hixon.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Humphrey Kilby.</cell>
+                     <cell>William Knight.</cell>
+                     <cell>Will. Bowdler.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Boſtock.</cell>
+                     <cell>Job Croft.</cell>
+                     <cell>John King.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Thomas Roſe</cell>
+                     <cell>Charles Langworth.</cell>
+                     <cell>Tho. Knowlis.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Dade.</cell>
+                     <cell>Robert Rodway.</cell>
+                     <cell>Roger Dade.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">II. <hi>Green Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> John Robinſon.</cell>
+                     <cell>William Keen <hi>Capt. Lieu.</hi>
+                     </cell>
+                     <cell>Roger Crook.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieu. Col.</hi> Andrew King.</cell>
+                     <cell>Richard Cawthorn.</cell>
+                     <cell>Adrian Quiney.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Ralph Tasker.</cell>
+                     <cell>Edward Knight.</cell>
+                     <cell>Fran. Wilſon.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> William Fiſher.</cell>
+                     <cell>William Cam.</cell>
+                     <cell>William Tiverton.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Jeffery Northleigh.</cell>
+                     <cell>Thomas Mariſhal.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Nicholas Coleborne.</cell>
+                     <cell>Fred. Ixem.</cell>
+                     <cell>James Seely.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">III. <hi>Red Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Anthony Bateman.</cell>
+                     <cell>Richard Cox <hi>Capt. Lieu.</hi>
+                     </cell>
+                     <cell>Robert Alſop.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieu. Col.</hi> John Cutler.</cell>
+                     <cell>Roger Ive.</cell>
+                     <cell>Robert Adams.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Abraham Stanyon.</cell>
+                     <cell>John Milton</cell>
+                     <cell>Tho. Lingard.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Swaile.</cell>
+                     <cell>Peter Smith.</cell>
+                     <cell>Will. Woodward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Edward Micoe.</cell>
+                     <cell>George Cox.</cell>
+                     <cell>Vincent Izatt.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Ryves.</cell>
+                     <cell>Tho. Abrahall.</cell>
+                     <cell>John Bellamy.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> William Parker.</cell>
+                     <cell>Tho. Fouk.</cell>
+                     <cell>Adam Willis.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">IV. <hi>White Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> William Wale.</cell>
+                     <cell>Nich. Coxeter <hi>Capt. Lieu.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieu. Col.</hi> Joſ. Throckmorton.</cell>
+                     <cell>William Brewer.</cell>
+                     <cell>John Battersby.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Stephen Bolton.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Steventon.</cell>
+                     <cell>Sam. Slaney.</cell>
+                     <cell>William Strange.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Charles Everard.</cell>
+                     <cell>Robert Welſted.</cell>
+                     <cell>George Beſt.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> William Stroud.</cell>
+                     <cell>John Ruſſon.</cell>
+                     <cell>James Damaske.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Casby.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">V. <hi>Blew Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> William Vincent.</cell>
+                     <cell> </cell>
+                     <cell>Tho. Soley.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieu. Col.</hi> George Smith.</cell>
+                     <cell> </cell>
+                     <cell>Tho. Needham.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Tho. Cox.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Robert Dawes.</cell>
+                     <cell>Richard Newlin.</cell>
+                     <cell>Lancelot Rider.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Will. Throckmorton.</cell>
+                     <cell>John Young.</cell>
+                     <cell>Steph. Lodington.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Bonfoy.</cell>
+                     <cell>Geo. Bromley.</cell>
+                     <cell>Hugh Harvey.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <pb n="6" facs="tcp:152637:4"/>
+                  <row>
+                     <cell cols="3">VI. <hi>Yellow Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Lieutenants.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Enſignes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ol.</hi> Tho. Bludworth.</cell>
+                     <cell>Rich. Bratley <hi>Capt. Lieu.</hi>
+                     </cell>
+                     <cell>John Sanders.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ieu. Col.</hi> Robert Peake.</cell>
+                     <cell>Thomas Staynoe.</cell>
+                     <cell>John Chittey.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Will. Roſewell.</cell>
+                     <cell> </cell>
+                     <cell>Hen. Hanſlapp.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Wallis.</cell>
+                     <cell>John Hammond.</cell>
+                     <cell>Will. Mouſe.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> James Bradſhaw.</cell>
+                     <cell>Will. Roybould.</cell>
+                     <cell>James Barret.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Rich. Colcheſter.</cell>
+                     <cell>Will. Beamont.</cell>
+                     <cell>Franc. Bourchier.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Clarke.</cell>
+                     <cell>Hen. Strode.</cell>
+                     <cell>Henry Johnſon.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <list>
+                  <head>Sergeants.</head>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Carron.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en. Phillips.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an. Pepper.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im. Singleton.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Hoe.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ames Cooke.</item>
+                  <item>Charles Cooke.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho. Birch.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndr. Prime.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Empſon.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ob. Burden.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rth. Hall.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b. Lapworth.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o. Fouke.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Pearce.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Rumball.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Prior.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich. Page.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Hatton.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho. Addis.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an. Morris.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich. Whitlock.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um. Taylor.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eo. Singe.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra. Naſh.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ervas Leaton.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn Ward.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eo. Allin.</item>
+                  <item>Joſ. Brook.</item>
+                  <item>Rich. Phillips.</item>
+                  <item>John Basford.</item>
+                  <item>Will. Hurde.</item>
+                  <item>Edw. Hales.</item>
+                  <item>Will. Hinton.</item>
+                  <item>Will. Dodd.</item>
+                  <item>Joſ. Palmer.</item>
+                  <item>Tho. Hunt.</item>
+                  <item>Will. Maxon.</item>
+                  <item>Tho. Hinton.</item>
+                  <item>Geo. Pemberton.</item>
+                  <item>Jer. Stephens.</item>
+                  <item>Rich. George.</item>
+                  <item>Tho. Hunt.</item>
+                  <item>Rob. Brearley.</item>
+                  <item>John Wharton.</item>
+                  <item>Will. Rudd.</item>
+                  <item>John Lathum.</item>
+                  <item>Geo. Philips.</item>
+                  <item>Theo. Dorrington.</item>
+                  <item>Oſnall Farr.</item>
+                  <item>Geo. Reynolds.</item>
+                  <item>Dan. Ireland.</item>
+                  <item>Tho. Hobday.</item>
+                  <item>Tho. Weſtraw.</item>
+                  <item>John Merry.</item>
+                  <item>Edward Cottrel.</item>
+                  <item>John Mitchell.</item>
+                  <item>Ben. Ladd.</item>
+                  <item>Bar. Alder.</item>
+                  <item>Joſhua King.</item>
+                  <item>John Major.</item>
+                  <item>Arth. Brown.</item>
+                  <item>Tho. Hanſon.</item>
+                  <item>John Summerell.</item>
+                  <item>Rich. Kennon.</item>
+                  <item>Jer. Arnold.</item>
+                  <item>Edw. Gage.</item>
+                  <item>Sam. Wootrond.</item>
+                  <item>John Bliſſe.</item>
+                  <item>Will. Gardner.</item>
+                  <item>Will. Branch.</item>
+                  <item>John Rawſon.</item>
+                  <item>Tho. Vincent.</item>
+                  <item>Rob. Twyford.</item>
+                  <item>Peter Emonſon.</item>
+                  <item>Tho Hatton.</item>
+                  <item>Joſ. Motterſhed.</item>
+                  <item>Will. Edwards.</item>
+                  <item>Poſthumus Sare.</item>
+                  <item>Rich. Webſter.</item>
+                  <item>Rich. Simmons.</item>
+                  <item>Matth. Tarbett.</item>
+                  <item>Rich. Moor.</item>
+                  <item>T. Thackor.</item>
+                  <item>Rich. Read.</item>
+                  <item>John Readman.</item>
+                  <item>Edw. Everett.</item>
+                  <item>John Foulks.</item>
+                  <item>Will. Bolton.</item>
+                  <item>Tho. Inſley.</item>
+                  <item>Will. Briſtow.</item>
+                  <item>Ben. Stafford.</item>
+                  <item>Rob. Hooper.</item>
+                  <item>Tho. Hutchins.</item>
+                  <item>John Reynolds.</item>
+                  <item>Tho. Soulter.</item>
+                  <item>Rich. Swan.</item>
+                  <item>Rich. Clark.</item>
+                  <item>Matth. Harries.</item>
+                  <item>John Smith.</item>
+                  <item>Rich. Danſer.</item>
+                  <item>Edm. Freeman.</item>
+                  <item>Tho. Mills.</item>
+                  <item>Will. Page.</item>
+                  <item>Eliſha Wallis.</item>
+                  <item>John Tew.</item>
+                  <item>Tho. Mills.</item>
+                  <item>John Evans.</item>
+                  <item>H. Whittingham.</item>
+               </list>
+            </p>
+            <p>
+               <hi>The like Addreſſe, with the words</hi> of the ſeveral Regiments of Your <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <pb n="7" facs="tcp:152637:4"/>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="3">I. <hi>White Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rich. Brown <hi>Maj. Gen.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Lieutenants.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Enſigns.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Rich. Ford.</cell>
+                     <cell>Will. Kemp <hi>Capt. Lieut.</hi>
+                     </cell>
+                     <cell>John Glanvill</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lievt. Col.</hi> Ben. Baron.</cell>
+                     <cell>Tho. Frith.</cell>
+                     <cell>Ben. Mann.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> John Brett.</cell>
+                     <cell>John Maxfield.</cell>
+                     <cell>Will Bowles</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Wheake.</cell>
+                     <cell>William Bennet.</cell>
+                     <cell>Barth. Bywall.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Parker.</cell>
+                     <cell>Rich. Senior.</cell>
+                     <cell>Rich. Miller.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Rich. Cartwright.</cell>
+                     <cell>Tho. Ives.</cell>
+                     <cell>Fra. Trenley,</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Rich. Kinſey.</cell>
+                     <cell>Edw. Parker.</cell>
+                     <cell>Edw. Kinſey.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">II. <hi>Green Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Will. Gardiner.</cell>
+                     <cell>Hen. Stead. <hi>Capt. Lieut.</hi>
+                     </cell>
+                     <cell>Edw. Foſter.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieut. Col.</hi> Tho. Coats.</cell>
+                     <cell>Arth. Manwaring.</cell>
+                     <cell>Mat. Hutchinſon.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> John Maurois.</cell>
+                     <cell>Ralph. Silverton.</cell>
+                     <cell>Tho. Wathen.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Fra. Iſaacſon.</cell>
+                     <cell>John Sands.</cell>
+                     <cell>Guthlake Folliot.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Kaly.</cell>
+                     <cell>Hum. Griffith.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Seed.</cell>
+                     <cell>William Beedam.</cell>
+                     <cell>Rob. Chaplain.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">III. <hi>Yellow Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Tho. Nevill.</cell>
+                     <cell>Will. Malthy. <hi>Cap. Lieut.</hi>
+                     </cell>
+                     <cell>Joſeph Sheldon.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieut. Col.</hi> Ch. Fowke</cell>
+                     <cell>Tho. Newman.</cell>
+                     <cell>Tho. Palen.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Edw. Croſſe.</cell>
+                     <cell>John Walkly.</cell>
+                     <cell>Hen. Atkinſon.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Templer.</cell>
+                     <cell>Edw. Townſend.</cell>
+                     <cell>Rich. Hollins.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Robert Hatton,</cell>
+                     <cell>Hen. Brigham.</cell>
+                     <cell>John Dickenſon.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Rand. Bird.</cell>
+                     <cell>Fran. Hall.</cell>
+                     <cell>Tho. Smeaton.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> William Powell.</cell>
+                     <cell>John Hamond.</cell>
+                     <cell>John Birkhead.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">IV. <hi>Red Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Edw. Clagget.</cell>
+                     <cell>Rob. Minchard <hi>Capt. Lieut.</hi>
+                     </cell>
+                     <cell>Tho. Hickman.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lieut. Col.</hi> Tho. Padnol.</cell>
+                     <cell>Rich. Burdon.</cell>
+                     <cell>William Sudbury.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Tho. Gunſton.</cell>
+                     <cell>Roger Newman.</cell>
+                     <cell>Wil. Groſvenor.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Scarlett.</cell>
+                     <cell>George Alſop.</cell>
+                     <cell>Dan. Lindal.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> William Cooper</cell>
+                     <cell>Edw. Simmons.</cell>
+                     <cell>James Carpenter.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Udall Walker.</cell>
+                     <cell>Zach. Grant.</cell>
+                     <cell>Will. Hill.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Will. Williams.</cell>
+                     <cell>Robert Pratt.</cell>
+                     <cell>John Jolley.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">V. <hi>Black Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> William Allot.</cell>
+                     <cell>Robert Pemel. <hi>Capt. Liev.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Liev. Col.</hi> Hen. Fewterel.</cell>
+                     <cell>Tho. Vere.</cell>
+                     <cell>Rich. Paine.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Tho. Bywater.</cell>
+                     <cell>Tho. Ruſh.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Fran. Burton.</cell>
+                     <cell>Tho. Harbert.</cell>
+                     <cell>Roger Bower.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Rich Bri<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </cell>
+                     <cell>Tho. W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>king</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <pb n="8" facs="tcp:152637:5"/>
+                  <row>
+                     <cell cols="3">VI. <hi>Blew Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Lieutenants.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Enſignes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Edward Truſſel.</cell>
+                     <cell> </cell>
+                     <cell>Cha. Hinton.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Liev. Col.</hi> Fran, Manby.</cell>
+                     <cell>John Abbot.</cell>
+                     <cell>Fra. Rainsford.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Major</hi> Walter White.</cell>
+                     <cell>James Whitechurch.</cell>
+                     <cell>Will. Faulconer.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> John Povall.</cell>
+                     <cell>Geo. Coles.</cell>
+                     <cell>Robert Cooke.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Cheſter.</cell>
+                     <cell>Rich. Sudbury.</cell>
+                     <cell>James Town.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Smith.</cell>
+                     <cell>Rich. Winſton.</cell>
+                     <cell>John Mitchell.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Capt.</hi> Tho. Weſt.</cell>
+                     <cell>Rich. Winter.</cell>
+                     <cell>Will. Woodrofe.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Jo. Burroughs <hi>Muſter Mr.</hi>
+            </p>
+            <p>
+               <list>
+                  <head>Sergeants.</head>
+                  <item>Tho. Aynsworth.</item>
+                  <item>Rich. Salter.</item>
+                  <item>Fran. May.</item>
+                  <item>Tho. Sanderſon.</item>
+                  <item>Tho. Ingle.</item>
+                  <item>Rice Jones.</item>
+                  <item>John Hilliard.</item>
+                  <item>Tho. Blechle.</item>
+                  <item>John Langham.</item>
+                  <item>Matth. Maſſey.</item>
+                  <item>Will. Thruckſtone</item>
+                  <item>Will. Dudners.</item>
+                  <item>Joſ. Wilſon.</item>
+                  <item>Tho. Fordell.</item>
+                  <item>Will. Woodley.</item>
+                  <item>Edw. Cheſter.</item>
+                  <item>John Dunſtate.</item>
+                  <item>Theo. Pickering.</item>
+                  <item>Tim. Skinner.</item>
+                  <item>John Money.</item>
+                  <item>John Mayſon.</item>
+                  <item>John Leeſon.</item>
+                  <item>Julian Searl.</item>
+                  <item>Jul. Griffith.</item>
+                  <item>Tho. Lucas.</item>
+                  <item>Jo. Alexander.</item>
+                  <item>John Hodges.</item>
+                  <item>Ja. Green.</item>
+                  <item>Chri. Harris.</item>
+                  <item>Will. Baſhford.</item>
+                  <item>John Bamſter.</item>
+                  <item>Tho. Stanley.</item>
+                  <item>Edw. Robins.</item>
+                  <item>Edw. Mainwaring</item>
+                  <item>Fra. Jaques.</item>
+                  <item>Fra. Ince.</item>
+                  <item>Rich. Jones.</item>
+                  <item>John Goodeen.</item>
+                  <item>Hen. Elmes.</item>
+                  <item>Edward Gough.</item>
+                  <item>Jam. Branſon.</item>
+                  <item>Roger Leigh.</item>
+                  <item>Dan. Linyard.</item>
+                  <item>John Kiffin.</item>
+                  <item>Joſ. Watſon.</item>
+                  <item>Rob. Faſſit.</item>
+                  <item>Will. Levett.</item>
+                  <item>Nath. Swanwick.</item>
+                  <item>Rowland Reade.</item>
+                  <item>Augu. Davies.</item>
+                  <item>John Herring.</item>
+                  <item>John Walden.</item>
+                  <item>Nath. Cooper.</item>
+                  <item>Ralph Whiſtler.</item>
+                  <item>Rich. Ledingham.</item>
+                  <item>Tho. Lingard.</item>
+                  <item>Will. Jackſon.</item>
+                  <item>Nick. Northop.</item>
+                  <item>John Kiffin.</item>
+                  <item>Tho. Cooper.</item>
+                  <item>Hen. Halſey.</item>
+                  <item>Rich. Hill.</item>
+                  <item>Tho. Rotherham.</item>
+                  <item>Wil. Comberback.</item>
+                  <item>Edw. Tew.</item>
+                  <item>Fra. Drinkwater.</item>
+                  <item>John Brian.</item>
+                  <item>L. Dangerfield.</item>
+                  <item>John Fling.</item>
+                  <item>Edward Hall.</item>
+                  <item>Mich. Wilkinſon.</item>
+                  <item>Rich. Hopkins.</item>
+                  <item>Edw. Fox.</item>
+                  <item>Fra. Eſtwich.</item>
+                  <item>Owen Hammond.</item>
+                  <item>Ralph Croſſe.</item>
+                  <item>John Wyatt.</item>
+                  <item>Will. Sodden.</item>
+                  <item>Peirce Orlon.</item>
+                  <item>Tho. Corbett.</item>
+                  <item>Da. Maxwell.</item>
+                  <item>Rich. Selle.</item>
+                  <item>Dan. Youghton.</item>
+                  <item>Tho. Wilkiſon.</item>
+                  <item>Math. Harriſon.</item>
+                  <item>Will. Comers.</item>
+                  <item>Sam. Mabbs.</item>
+                  <item>Rich. Maſon.</item>
+                  <item>Geo. Collins.</item>
+                  <item>Tho. Hamerſley.</item>
+                  <item>Hum. Filer.</item>
+                  <item>Will. Jones.</item>
+                  <item>Will. Chearſley.</item>
+                  <item>Jer. Lammus.</item>
+                  <item>Leon. Izard.</item>
+                  <item>John Wall.</item>
+                  <item>Joſ. Blacklock.</item>
+                  <item>James Davies.</item>
+                  <item>John Skelton.</item>
+                  <item>Fran. Moor.</item>
+                  <item>Sam. Weſt.</item>
+                  <item>John Bames.</item>
+                  <item>Rich. Kell.</item>
+                  <item>Tho. Shew.</item>
+                  <item>Geo. Poyſor.</item>
+                  <item>John King.</item>
+                  <item>Hum. Trye.</item>
+                  <item>Anth. Palmer.</item>
+                  <item>Iſaac Saywell.</item>
+                  <item>James Sanders.</item>
+                  <item>Tho. Sagood.</item>
+                  <item>Rich. Halford.</item>
+               </list>
+            </p>
+            <p>
+               <hi>All which three Addreſſes were preſented to His Majeſty, by the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Officers</hi> April <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 1661.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
